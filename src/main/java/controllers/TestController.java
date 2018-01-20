@@ -29,6 +29,7 @@ public class TestController {
         result.put("val5", "test2");
         result.put("val6", "test2");
         result.put("val7", "test2");
+        result.put("val7", "test2");
         return result;
     }
 
